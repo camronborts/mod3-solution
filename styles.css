@@ -1,0 +1,15 @@
+* {
+    background-color: antiquewhite;
+}
+
+#header-nav {
+    background-color: #f6b319;
+    border-radius: 0;
+    border: 0;
+}
+
+#logo-img {
+    background: url('../mod3-solution/loaf3.png') no-repeat;
+    width: 150px;
+    height: 150px;
+}
