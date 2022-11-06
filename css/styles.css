@@ -3,16 +3,131 @@
     align-items: center;
     justify-content: left;
     background-color: steelblue;
-
+    padding-left: 10px;
+    padding-bottom: 15px;
 }
-
-
-
-
 
 .navbar-brand a:link, .navbar-brand a:visited, .navbar-brand a:hover, .navbar-brand a:focus {
     text-decoration: none;
     color: white;
+    padding-left: 10px;
+}
+
+.chicken-title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: solid 2px black;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    background-color: lightgoldenrodyellow;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid 2px black;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+    background-color: beige;
+    
+}
+
+.flex-container div {
+    display: row;
+    justify-content: center;
+    align-items: center;
+    
+}
+.chicken {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding: 3em;
+    padding-left: 500px;
+    padding-right: 500px;
+    
+    
+}
+.ourmenu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aliceblue;
+    margin-bottom: 0px;
+
+}
+
+.flex-container-2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid 2px black;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+    background-color: beige;
+    
+}
+
+.beef-title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: solid 2px black;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+
+    background-color: burlywood;
+}
+
+.beef {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding: 3em;
+    padding-left: 500px;
+    padding-right: 500px;
+
+    
+}
+
+.flex-container-3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid 2px black;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+    background-color: beige;
+    
+}
+
+.salmon-title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: solid 2px black;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    background-color: salmon;
+}
+
+.salmon {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding: 3em;
+    padding-left: 500px;
+    padding-right: 500px;
+    
+    
 }
 /*
 
