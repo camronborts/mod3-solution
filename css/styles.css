@@ -1,10 +1,20 @@
 
-
-
-body {
-    background-color: bisque;
+.navbar-default {
+    align-items: center;
+    justify-content: left;
+    background-color: steelblue;
 
 }
+
+
+
+
+
+.navbar-brand a:link, .navbar-brand a:visited, .navbar-brand a:hover, .navbar-brand a:focus {
+    text-decoration: none;
+    color: white;
+}
+/*
 
 #nav-list {
     margin-top: 10px;
@@ -44,7 +54,7 @@ body {
     text-transform: uppercase;
     font-weight: bold;
     text-shadow: 1px 1px 1px #222;
-    margin-top: 0;
+    margin-top: 2em;
     margin-bottom: 0;
     line-height: .75;
 }
